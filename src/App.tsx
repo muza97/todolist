@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import TheTodoList from './theTodo'
+import TheTodoList from './components/TodoList'
 
 function App() {
   return (
